@@ -1,0 +1,22 @@
+👁️ Computer Vision
+I build and deploy computer vision solutions that help businesses automate visual tasks and gain valuable insights from images and videos. My services include:
+
+Image Classification & Object Detection
+Identify, categorize, and locate objects in images and videos for use cases like quality inspection, inventory management, and security.
+
+Facial Recognition & Analysis
+Develop systems that detect and analyze faces for applications such as identity verification, emotion detection, and customer analytics.
+
+OCR & Document Processing
+Automate data extraction from scanned documents, receipts, and invoices to streamline operations.
+
+Custom Computer Vision Pipelines
+Tailor solutions to your unique needs, from medical imaging to autonomous vehicles and beyond.
+
+Model Deployment & Optimization
+Ensure your models run efficiently on edge devices, cloud platforms, or mobile apps, with real-time performance.
+
+🔥 Sample Standalone Service Description
+Computer Vision Solutions
+I design and implement cutting-edge computer vision systems that turn raw image and video data into actionable insights. Whether it’s object detection, facial recognition, or automated visual inspection, I deliver solutions that enhance your workflows and drive innovation.
+
