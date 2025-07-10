@@ -31,7 +31,7 @@ nav {
   background-color: #09131c;
   padding: 15px 0;
   z-index: 1000;
-  
+
 }
 
 
@@ -202,7 +202,7 @@ nav ul li a:hover::after {
 
 .about-text p {
   /* font-family: 'Baloo Bhai', cursive; */
-  
+
 
   margin: 20px 0;
   font-size: 18px;
@@ -275,18 +275,20 @@ nav ul li a:hover::after {
   margin-bottom: 20px;
   color: #00f0ff;
 }
-#hostIcon{
+
+#hostIcon {
   float: right;
-    height: 25px;
-    width: auto;
-    margin-top: 25px;
-    transition: transform 0.3s; 
-    cursor: pointer;
+  height: 25px;
+  width: auto;
+  margin-top: 25px;
+  transition: transform 0.3s;
+  cursor: pointer;
 }
+
 #hostIcon:hover {
-    transform: scale(1.2);
-  }
-  
+  transform: scale(1.2);
+}
+
 .service-box h3 {
   font-family: 'Bree Serif', serif;
   font-size: 24px;
@@ -319,7 +321,7 @@ nav ul li a:hover::after {
 
 
 .skills-section {
-  
+
   width: 80%;
   margin: auto;
   color: #fff;
@@ -339,7 +341,7 @@ h2 {
 
 .skill-bar {
   margin: 20px 0;
-      z-index: 1;
+  z-index: 1;
 
 }
 
@@ -348,7 +350,7 @@ p {
 }
 
 .progress {
-  
+
   background-color: #333;
   border-radius: 20px;
   position: relative;
@@ -554,4 +556,45 @@ p {
 
 .contact-form .btn:hover {
   background-color: #00cce7;
+}
+
+
+footer {
+  background-color: #112d3f;
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: auto;
+}
+
+.footer-social {
+  margin: 15px 0;
+}
+
+.footer-social a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-social a:hover {
+  color: #1da1f2;
+  /* Slight blue on hover */
+}
+
+.footer-social img {
+  vertical-align: middle;
+  width: 24px;
+  height: 24px;
+}
+
+.footer-bottom {
+  font-size: 14px;
+  margin-top: 10px;
+  color: #aaa;
 }
